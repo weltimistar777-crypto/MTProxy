@@ -2207,3 +2207,37 @@ tg://proxy?server=impforyou.notdev.space&port=443&bot=@mtpro_xyz_bot&channel=@mt
 tg://proxy?server=impgo.notdev.space&port=443&secret=ee150aca15ff125cf3668f5aca79ce3509696d70676f2e6e6f746465762e7370616365&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 tg://proxy?server=impgo.notdev.space&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 tg://proxy?server=62.238.27.70&port=443&secret=dd104462821249bd7ac519130220c25d09
+
+# Added to archive: 2026-05-18
+# Latest update: 2026-05-17 21:47
+tg://proxy?server=77.42.123.21&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=atg.proxytg.space&port=443&secret=eef9632da3b0ea3b51ab5840f93b2ddaff6174672e70726f787974672e7370616365
+tg://proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365
+tg://proxy?server=89.167.109.120&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=89.167.109.120&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=tg1.tgproxy1.fun&port=443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e
+tg://proxy?server=109.122.196.48&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=109.122.196.48&port=443&secret=ed103e361e8f98572ec11071e45a5e8e&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=132.243.213.215&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=132.243.213.215&port=443&secret=ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=132.243.224.144&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=132.243.224.144&port=443&secret=eeecda39a76e1bc3262c8c8b01f7ba4fee706574726f766963682e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=146.103.41.249&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=146.103.41.249&port=443&secret=90f1d49e866eacebc95eb5dd574fa42a&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=170.83.232.58&port=443&secret=7vQz6YSwrurZpTt90CjVr5Rvem9uLnJ1&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=170.83.232.58&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=64.188.65.59&port=443&secret=ee67ddd226a29e40d7f3d9c81acb8596287765622e6d61782e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=64.188.65.59&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=78.17.62.66&port=443&secret=eef0050d30441bab41f60acae779df0c40766473696e612e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=78.17.62.66&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=93.77.161.19&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=93.77.161.19&port=443&secret=36f56fd415017632c3d5af46ec77a518&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=blncwithlove.com&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=blncwithlove.com&port=443&secret=ee9676ca2ce8626e43d65ab05b753c0757626c6e63776974686c6f76652e636f6d&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=emir.epitaphic.extend.pilipinoteleserye.com&port=443&secret=ee3fd295a848bb22fafcc43f815b6bb4ec647a656e2e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=emir.epitaphic.extend.pilipinoteleserye.com&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=rkn.proxytg.space&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=rkn.proxytg.space&port=443&secret=eedab8c006cdc477f71b1825b3082b1017726b6e2e70726f787974672e7370616365&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=rtx.myrka.digital&port=8443&secret=eee7084fde01cfbce4b201b0c92e176c51697269736b612e6d79726b612e6469676974616c&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=rtx.myrka.digital&port=8443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+tg://proxy?server=65.108.50.120&port=443&secret=dd104462821249bd7ac519130220c25d09
