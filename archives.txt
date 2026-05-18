@@ -2279,3 +2279,13 @@ tg://proxy?server=free.proproxies.top&port=443&bot=@mtpro_xyz_bot&channel=@mtpro
 tg://proxy?server=gt.myrka.digital&port=12345&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 tg://proxy?server=gt.myrka.digital&port=12345&secret=ee240eb837034fef71c7f14e62ebf869776b6f7368612e6d79726b612e6469676974616c&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 tg://proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09
+
+# Added to archive: 2026-05-18
+# Latest update: 2026-05-18 08:45
+tg://proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=rkn.proxytg.space&port=443&secret=eedab8c006cdc477f71b1825b3082b1017726b6e2e70726f787974672e7370616365
+tg://proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=62.238.0.202&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=62.238.0.202&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=157.90.124.2&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=178.105.113.91&port=8080&secret=dd104462821249bd7ac519130220c25d09
