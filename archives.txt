@@ -180,3 +180,10 @@ tg://proxy?server=s24.neo-trading.org&port=443&secret=ee17b59d905a546c7bf7355cf9
 tg://proxy?server=178.105.34.79&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=185.147.127.50&port=443&secret=7sEXmKsAiDG0dAZsnh6_XHlhdml0by5ydQ
 tg://proxy?server=186.246.21.34&port=443&secret=eec11798ab008831b474066c9e1ebf5c75617669746f2e7275
+
+# Added to archive: 2026-05-25
+# Latest update: 2026-05-25 21:12
+tg://proxy?server=204.168.129.90&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=r1.proxytg.space&port=8443&secret=eecd671d2032569f6cea0fb4c61c32756972312e70726f787974672e7370616365
+tg://proxy?server=g.proxytg.space&port=8443&secret=eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365
+tg://proxy?server=157.90.230.82&port=443&secret=dd104462821249bd7ac519130220c25d09
