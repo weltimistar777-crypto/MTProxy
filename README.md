@@ -1,6 +1,6 @@
 # 🌐 MTProxy Global Project
 
-### 📢 Official Telegram Channel: [@mtproto_all](https://t.me/mtproto_all)
+### 📢 Official Telegram Channel: [@gozar_mtproto](https://t.me/gozar_mtproto)
 
 ---
 
@@ -27,4 +27,4 @@
 * **تمرکز بر حریم خصوصی**
 
 ---
-🚀 **Join us:** [t.me/mtproto_all](https://t.me/mtproto_all)
+🚀 **Join us:** [t.me/gozar_mtproto](https://t.me/gozar_mtproto)
