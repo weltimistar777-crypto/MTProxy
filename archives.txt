@@ -10991,3 +10991,9 @@ tg://proxy?server=t02.b.qaz.it.com&port=443&secret=eed1562f51f9294ece3bcfafde154
 tg://proxy?server=t02.b.qaz.it.com&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 tg://proxy?server=t03.b.qaz.it.com&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 tg://proxy?server=t03.b.qaz.it.com&port=443&secret=ee1139e8925327971da848d3b81b7fd4876170692e74696d657765622e636c6f7564&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+
+# Added to archive: 2026-11-03
+# Latest update: 2026-11-03 14:16
+tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
